@@ -1,4 +1,4 @@
-# planetApp
+# Galaxies-planets
 ### Problem statement:
 In our busy life we often forget how small our workspace or even our whole planet is when compaired to the whole universe. we all should try atleast once in our life to
 the waste and always expanding space
